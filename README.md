@@ -1,5 +1,5 @@
 # Optimizing-Few-Shot-Image-Classification-Berrijam-Jam
 The Berrijam Jam external task focuses on the current issue in the AI industry of few-shot image classifiers. Normally when training an image classification A.I, vast volumes of training data are expected for each class when the classes differ greatly. However, in the given data sets, not only are the classes for each question visually similar, but there are only 5 training images for each class. The task is to create a highly generalisable AI model that can automatically train on very few and predict to a high degree of accuracy 5 different binary image classification problems, 2 of which are unseen. If we can build highly accurate models that require minimal data for an automated training process, the bar of entry into use is largely eliminated.
 
-1. **Readme.txt:** This file gives a brief description and instruction about the project files and the sequential order of how they should be run.'
+1. **Readme.txt:** This file gives a brief description and instruction about the project files and the sequential order of how they should be run.
 2. **Report.pdf:** The report gives brief description about the methods we implemented and their results we achieved.
